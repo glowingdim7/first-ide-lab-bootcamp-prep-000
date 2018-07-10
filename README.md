@@ -174,7 +174,7 @@
 
   That's a pretty helpful message, the tests are tellearling you that you should have made an edit to <code>edit-me.txt</code>
 
-  Once you edit <code>edit-me.txt</code> to contain any text and not be empty, if you re-run <code>learn</code> from your terminal, you would see:
+  Once you edit <code>edit-me.txt</code> to contain any text and not be empty, if you re-run <code>learn</code> from your terminal, you would see
 
   <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/passing-test.png" style="display: block"/>
   
